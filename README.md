@@ -1,6 +1,6 @@
-# Proyecto del juego del Tateti con REACT
+# Juego del Tateti
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este juego fue realizado con React
 
 ## ¿Cómo ejecutar?
 
